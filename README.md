@@ -34,4 +34,4 @@ It covers installation, configuration, and real-time monitoring using Wazuh and 
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<wolf>/Wazuh-SOC-Live-Monitoring.git
+   git clone https://github.com/<satz10lobo>/Wazuh-SOC-Live-Monitoring.git
