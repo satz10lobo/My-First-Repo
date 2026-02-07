@@ -1,4 +1,6 @@
 # Wazuh
+<img width="741" height="118" alt="image" src="https://github.com/user-attachments/assets/6609940a-868a-45d1-a1a3-d906a849b4d9" />
+
 Wazuh Manager &amp; Agent installation
 # Wazuh SOC Live Monitoring Project
 
